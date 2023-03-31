@@ -1,0 +1,25 @@
+body{
+    font-family: "Montserrat";
+    background-color: rgb(42, 42, 108);
+    padding: 8%;
+    background-size: 100%;
+}
+h1{
+    color: rgba(233, 240, 245, 0.861);
+}
+.title-image{
+    width: 400px; 
+    height: 400px;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+    width: 150px;
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+
+
+img{
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+
+
